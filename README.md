@@ -5,7 +5,7 @@ All contributions related to SQLMesh are welcome & encouraged! Please take a loo
 
 ## Contents
 * [Resources](#resources)
-* [Sample Projects](#sample)
+* [Sample Projects](#sample-projects)
 * [Tools](#tools)
 
 ## Resources
@@ -14,6 +14,17 @@ All contributions related to SQLMesh are welcome & encouraged! Please take a loo
 - [Slack](https://tobikodata.com/slack)
 
 ## Sample Projects
+- [Examples from the main repo](https://github.com/TobikoData/sqlmesh/tree/main/examples)
+  - [Airflow](https://github.com/TobikoData/sqlmesh/tree/main/examples/airflow)
+  - [Custom Materializations](https://github.com/TobikoData/sqlmesh/tree/main/examples/custom_materializations)
+  - [Ibis](https://github.com/TobikoData/sqlmesh/tree/main/examples/ibis)
+  - [Multi](https://github.com/TobikoData/sqlmesh/tree/main/examples/multi)
+  - [Multi dbt](https://github.com/TobikoData/sqlmesh/tree/main/examples/multi_dbt)
+  - [Multi Hybrid](https://github.com/TobikoData/sqlmesh/tree/main/examples/multi_hybrid)
+  - [Sushi](https://github.com/TobikoData/sqlmesh/tree/main/examples/sushi)
+  - [Sushi dbt](https://github.com/TobikoData/sqlmesh/tree/main/examples/sushi_dbt)
+  - [Sushi dlt](https://github.com/TobikoData/sqlmesh/tree/main/examples/sushi_dlt)
+  - [Wursthall](https://github.com/TobikoData/sqlmesh/tree/main/examples/wursthall)
 - [Official Example projects](https://github.com/TobikoData/sqlmesh-examples)
 - [sqlmesh-demos](https://github.com/sungchun12/sqlmesh-demos)
 
