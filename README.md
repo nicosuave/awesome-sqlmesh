@@ -39,5 +39,13 @@ All contributions related to SQLMesh are welcome & encouraged! Please take a loo
 ## Content
 
 ### Blog Posts
+- [Unlocking Data Insights with Ibis and SQLMesh](https://tobikodata.com/ibis-sqlmesh-unlocking-data-insights.html)
+- [SQLMesh for DBT Users 1](https://tobikodata.com/sqlmesh_for_dbt_1.html)
+- [SQLMesh for DBT Users 2](https://tobikodata.com/sqlmesh_for_dbt_2.html)
+- [Efficient Development with the SQLMesh Browser UI](https://tobikodata.com/sqlmesh-ui.html)
 
 ### Videos
+- [Tobiko Data Youtube](https://www.youtube.com/@TobikoData/)
+- [Evolving Data Pipelines at Scale](https://www.youtube.com/watch?v=8XP25nQ2rPY)
+- [Building SQLMesh Macros like dbt macros](https://www.youtube.com/watch?v=Qqbn1vUbLCU)
+- [SQLMesh Quickstart Guide](https://www.youtube.com/watch?v=weJH3eM0rzc)
