@@ -7,11 +7,15 @@ All contributions related to SQLMesh are welcome & encouraged! Please take a loo
 * [Resources](#resources)
 * [Sample Projects](#sample-projects)
 * [Tools](#tools)
+* [Content](#content)
+  * [Blog Posts](#blog-posts)
+  * [Videos](#videos)
 
-## Resources
+## Official Resources
 - [Official Documentation](https://sqlmesh.readthedocs.io/en/stable/)
-- [Github Repository](https://github.com/TobikoData/sqlmesh)
-- [Slack](https://tobikodata.com/slack)
+- [Slack](https://tobikodata.com/slack) - The team is highly responsive; don't hesitate to reach out.
+- [SQLMesh Repository](https://github.com/TobikoData/sqlmesh)
+- [SQLGlot Repository](https://github.com/tobymao/sqlglot)
 
 ## Sample Projects
 - [Examples from the main repo](https://github.com/TobikoData/sqlmesh/tree/main/examples)
@@ -31,3 +35,9 @@ All contributions related to SQLMesh are welcome & encouraged! Please take a loo
 ## Tools
 
 - [vscode-sqlmeshui](https://github.com/WesleyBatista/vscode-sqlmeshui) - Embedded SQLMesh UI in VS Code
+
+## Content
+
+### Blog Posts
+
+### Videos
