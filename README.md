@@ -1,7 +1,7 @@
 # awesome-sqlmesh
 A curated list of awesome SQLMesh resources
 
-All contributions related to SQLMesh are welcome & encouraged! Please take a look at the [contribution guidelines](CONTRIBUTING.md) first. Add new entries at the top of each category please.
+All contributions related to SQLMesh are welcome & encouraged! Please take a look at the [contribution guidelines](CONTRIBUTING.md) first. Add new entries at the bottom of each category, please.
 
 ## Contents
 * [Resources](#resources)
