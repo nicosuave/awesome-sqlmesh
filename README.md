@@ -41,6 +41,7 @@ All contributions related to SQLMesh are welcome & encouraged! Please take a loo
 ## Tools
 
 - [vscode-sqlmeshui](https://github.com/WesleyBatista/vscode-sqlmeshui) - Embedded SQLMesh UI in VS Code
+- [buenavista](https://github.com/nicosuave/buenavista/tree/add_sqlmesh_semantic_rewriting) - A fork of a Postgres/DuckDB proxy exposing both the PG and Trino protocols with a SQLMesh metric rewriter
 
 ## Content
 
