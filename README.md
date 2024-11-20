@@ -12,6 +12,7 @@ All contributions related to SQLMesh are welcome & encouraged! Please take a loo
 ## Contents
 * [Official Resources](#official-resources)
 * [Sample Projects](#sample-projects)
+* [Community Projects](#community-projects)
 * [Tools](#tools)
 * [Content](#content)
   * [Blog Posts](#blog-posts)
@@ -37,6 +38,9 @@ All contributions related to SQLMesh are welcome & encouraged! Please take a loo
   - [Wursthall](https://github.com/TobikoData/sqlmesh/tree/main/examples/wursthall)
 - [Official Example projects](https://github.com/TobikoData/sqlmesh-examples)
 - [sqlmesh-demos](https://github.com/sungchun12/sqlmesh-demos)
+
+## Community Projects
+- [arcane-insight](https://github.com/mattiasthalen/arcane-insight) - An analytics, ingestion, transformation project built with SQLMesh & DuckDB on Blizzard's Hearthstone API
 
 ## Tools
 
