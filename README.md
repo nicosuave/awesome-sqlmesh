@@ -26,7 +26,6 @@ All contributions related to SQLMesh are welcome & encouraged! Please take a loo
 
 ## Sample Projects
 - [Examples from the main repo](https://github.com/TobikoData/sqlmesh/tree/main/examples)
-  - [Airflow](https://github.com/TobikoData/sqlmesh/tree/main/examples/airflow)
   - [Custom Materializations](https://github.com/TobikoData/sqlmesh/tree/main/examples/custom_materializations)
   - [Ibis](https://github.com/TobikoData/sqlmesh/tree/main/examples/ibis) - A python SQLMesh model with Ibis
   - [Multi](https://github.com/TobikoData/sqlmesh/tree/main/examples/multi) - Multiple SQLMesh projects
