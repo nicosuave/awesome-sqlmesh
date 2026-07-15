@@ -63,6 +63,8 @@ Editors, proxies, and utilities around SQLMesh.
 
 - [vscode-sqlmeshui](https://github.com/WesleyBatista/vscode-sqlmeshui) - Embedded SQLMesh UI in VS Code.
 - [buenavista](https://github.com/nicosuave/buenavista/tree/add_sqlmesh_semantic_rewriting) - A fork of a Postgres/DuckDB proxy exposing both the PG and Trino protocols with a SQLMesh metric rewriter.
+- [tff](https://github.com/tjirab/tff) - Fitness functions engine and linter for transformation projects, with a dedicated SQLMesh plugin.
+- [sqlmesh-openlineage](https://github.com/sidequery/sqlmesh-openlineage) - OpenLineage integration for SQLMesh that emits table and column lineage events.
 
 ## Media
 
