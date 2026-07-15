@@ -76,6 +76,9 @@ Blog posts, talks, and videos.
 - [SQLMesh for DBT Users 1](https://tobikodata.com/sqlmesh_for_dbt_1.html) - Introduction to SQLMesh for dbt users.
 - [SQLMesh for DBT Users 2](https://tobikodata.com/sqlmesh_for_dbt_2.html) - Continued guide to SQLMesh for dbt users.
 - [Efficient Development with the SQLMesh Browser UI](https://tobikodata.com/sqlmesh-ui.html) - Developing with the SQLMesh browser UI.
+- [Why SQLMesh Might be The Best dbt Alternative](https://thedatatoolbox.substack.com/p/why-sqlmesh-might-be-the-best-dbt) - Comparison of SQLMesh and dbt and when to choose SQLMesh.
+- [Getting Started with SQLMesh: A Comprehensive Starter Guide](https://thedatatoolbox.substack.com/p/getting-started-with-sqlmesh-a-comprehensive) - Hands-on walkthrough for getting started with SQLMesh.
+- [SQLMesh Makes Your Data Validation Easy](https://thedatatoolbox.substack.com/p/sqlmesh-makes-your-data-validation) - Guide to using SQLMesh table diff for data validation.
 
 ### Videos
 
