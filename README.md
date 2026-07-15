@@ -1,4 +1,4 @@
-# Awesome SQLMesh [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome SQLMesh [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![GitHub contributors](https://img.shields.io/github/contributors/StuffbyYuki/awesome-sqlmesh) ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/StuffbyYuki/awesome-sqlmesh)
 
 <p align="center">
   <a href="https://sqlmesh.readthedocs.io/">
@@ -14,16 +14,15 @@ All contributions related to SQLMesh are welcome! Please check the [contribution
 
 ## Contents
 
-- [Awesome SQLMesh ](#awesome-sqlmesh-)
-  - [Contents](#contents)
-  - [Official Resources](#official-resources)
-  - [Sample Projects](#sample-projects)
-  - [Community Projects](#community-projects)
-  - [Tools](#tools)
-  - [Media](#media)
-    - [Blog Posts](#blog-posts)
-    - [Videos](#videos)
-  - [Contribute](#contribute)
+- [Official Resources](#official-resources)
+- [Sample Projects](#sample-projects)
+- [Community Projects](#community-projects)
+- [Tools](#tools)
+- [Media](#media)
+  - [Blog Posts](#blog-posts)
+  - [Videos](#videos)
+- [Contributors](#contributors)
+- [Contribute](#contribute)
 
 ## Official Resources
 
@@ -87,6 +86,14 @@ Blog posts, talks, and videos.
 - [Building SQLMesh Macros like dbt macros](https://www.youtube.com/watch?v=Qqbn1vUbLCU) - How to build SQLMesh macros similar to dbt macros.
 - [SQLMesh Quickstart Guide](https://www.youtube.com/watch?v=weJH3eM0rzc) - Quickstart walkthrough for SQLMesh.
 - [Running dbt Jaffle shop in SQLMesh](https://www.youtube.com/watch?v=weZxrJ2GHco) - Running the dbt Jaffle Shop example in SQLMesh.
+
+## Contributors
+
+Thanks for all the great resources! Can't see your avatar? Check the [contribution guidelines](CONTRIBUTING.md) on how you can submit your resources to the community!
+
+<a href="https://github.com/StuffbyYuki/awesome-sqlmesh/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=StuffbyYuki/awesome-sqlmesh" alt="Contributors" />
+</a>
 
 ## Contribute
 
