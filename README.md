@@ -78,6 +78,7 @@ Blog posts, talks, and videos.
 - [Why SQLMesh Might be The Best dbt Alternative](https://thedatatoolbox.substack.com/p/why-sqlmesh-might-be-the-best-dbt) - Comparison of SQLMesh and dbt and when to choose SQLMesh.
 - [Getting Started with SQLMesh: A Comprehensive Starter Guide](https://thedatatoolbox.substack.com/p/getting-started-with-sqlmesh-a-comprehensive) - Hands-on walkthrough for getting started with SQLMesh.
 - [SQLMesh Makes Your Data Validation Easy](https://thedatatoolbox.substack.com/p/sqlmesh-makes-your-data-validation) - Guide to using SQLMesh table diff for data validation.
+- [A Portable Analytics Stack](https://dataengineeringcentral.substack.com/p/a-portable-analytics-stack) - Building a portable analytics stack with dlt, SQLMesh, DuckDB, and DuckLake.
 
 ### Videos
 
