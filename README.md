@@ -21,6 +21,7 @@ All contributions related to SQLMesh are welcome! Please check the [contribution
   - [Community Projects](#community-projects)
   - [Tools](#tools)
   - [Media](#media)
+    - [Newsletters](#newsletters)
     - [Blog Posts](#blog-posts)
     - [Videos](#videos)
     - [Talks](#talks)
@@ -73,6 +74,11 @@ Editors, proxies, and utilities around SQLMesh.
 
 Blog posts, talks, and videos.
 
+### Newsletters
+
+- [The Data Toolbox](https://thedatatoolbox.substack.com/) - Yuki’s Substack on modern data tools; several SQLMesh guides and comparisons.
+- [davidj.substack](https://davidsj.substack.com/) - David Jayatillake’s Substack; hands-on SQLMesh series covering dbt migration, plan/apply, testing, and ops.
+
 ### Blog Posts
 
 - [Unlocking Data Insights with Ibis and SQLMesh](https://tobikodata.com/ibis-sqlmesh-unlocking-data-insights.html) - Using Ibis with SQLMesh for analytical workflows.
@@ -86,6 +92,9 @@ Blog posts, talks, and videos.
 - [SQLMesh for dummies](https://dataengineeringcentral.substack.com/p/sqlmesh-for-dummies) - Approachable overview of SQLMesh for people curious about the dbt alternative.
 - [SQLMesh (ssp.sh Second Brain)](https://www.ssp.sh/brain/sqlmesh/) - Curated notes on SQLMesh concepts, features, history, and comparisons to dbt.
 - [What if dbt and SQLMesh were weapons](https://smallbigdata.substack.com/p/what-if-dbt-and-sqlmesh-were-weapons) - Entertaining 2025 comparison of dbt and SQLMesh as competing transformation tools.
+- [sqlmesh init -t dbt](https://davidsj.substack.com/p/sqlmesh-init-t-dbt) - Running an existing dbt project with SQLMesh.
+- [sqlmesh plan](https://davidsj.substack.com/p/sqlmesh-plan) - Walkthrough of SQLMesh plan/apply and virtual data environments.
+- [sqlmesh migrate](https://davidsj.substack.com/p/sqlmesh-migrate) - Migrating from dbt to SQLMesh in practice.
 
 ### Videos
 
