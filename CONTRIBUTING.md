@@ -8,14 +8,18 @@ project you agree to abide by its terms.
 
 Ensure your pull request adheres to the following guidelines:
 
-- Keep it relevant
-- Be helpful
+- Keep it relevant to SQLMesh.
+- Use the format: `- [Name](url) - Description.`
+- Add new entries at the bottom of the relevant category.
+- Keep descriptions short, helpful, and non-promotional.
 
 Thank you for your suggestions!
 
-
 ## Updating your PR
 
+A lot of times, making a PR adhere to the standards above can be difficult.
 If the maintainers notice anything that we'd like changed, we'll ask you to
 edit your PR before we merge it. There's no need to open a new PR, just edit
-the existing one.
+the existing one. If you're not sure how to do that,
+[here is a guide](https://github.com/RichardLitt/knowledge/blob/master/github/amending-a-commit-guide.md)
+on the different ways you can update your PR so that we can merge it.
