@@ -55,6 +55,7 @@ Official examples and community demos to learn from.
 End-to-end projects built with SQLMesh.
 
 - [arcane-insight](https://github.com/mattiasthalen/arcane-insight) - An analytics, ingestion, and transformation project built with SQLMesh and DuckDB on Blizzard's Hearthstone API.
+- [portable-analytics-stack](https://github.com/StuffbyYuki/The-Data-Toolbox/tree/main/portable-analytics-stack) - End-to-end portable analytics template: dlt ingests NYC Open Data into DuckLake (Postgres catalog + Cloudflare R2), SQLMesh transforms with DuckDB (including Python/Polars models), and GitHub Actions handles CI/CD plus scheduled runs—no warehouse required.
 
 ## Tools
 
