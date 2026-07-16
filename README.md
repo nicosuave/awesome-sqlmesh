@@ -14,15 +14,18 @@ All contributions related to SQLMesh are welcome! Please check the [contribution
 
 ## Contents
 
-- [Official Resources](#official-resources)
-- [Sample Projects](#sample-projects)
-- [Community Projects](#community-projects)
-- [Tools](#tools)
-- [Media](#media)
-  - [Blog Posts](#blog-posts)
-  - [Videos](#videos)
-- [Contributors](#contributors)
-- [Contribute](#contribute)
+- [Awesome SQLMesh   ](#awesome-sqlmesh---)
+  - [Contents](#contents)
+  - [Official Resources](#official-resources)
+  - [Sample Projects](#sample-projects)
+  - [Community Projects](#community-projects)
+  - [Tools](#tools)
+  - [Media](#media)
+    - [Blog Posts](#blog-posts)
+    - [Videos](#videos)
+    - [Talks](#talks)
+  - [Contributors](#contributors)
+  - [Contribute](#contribute)
 
 ## Official Resources
 
@@ -80,6 +83,9 @@ Blog posts, talks, and videos.
 - [Getting Started with SQLMesh: A Comprehensive Starter Guide](https://thedatatoolbox.substack.com/p/getting-started-with-sqlmesh-a-comprehensive) - Hands-on walkthrough for getting started with SQLMesh.
 - [SQLMesh Makes Your Data Validation Easy](https://thedatatoolbox.substack.com/p/sqlmesh-makes-your-data-validation) - Guide to using SQLMesh table diff for data validation.
 - [A Portable Analytics Stack](https://dataengineeringcentral.substack.com/p/a-portable-analytics-stack) - Building a portable analytics stack with dlt, SQLMesh, DuckDB, and DuckLake.
+- [SQLMesh for dummies](https://dataengineeringcentral.substack.com/p/sqlmesh-for-dummies) - Approachable overview of SQLMesh for people curious about the dbt alternative.
+- [SQLMesh (ssp.sh Second Brain)](https://www.ssp.sh/brain/sqlmesh/) - Curated notes on SQLMesh concepts, features, history, and comparisons to dbt.
+- [What if dbt and SQLMesh were weapons](https://smallbigdata.substack.com/p/what-if-dbt-and-sqlmesh-were-weapons) - Entertaining 2025 comparison of dbt and SQLMesh as competing transformation tools.
 
 ### Videos
 
@@ -88,6 +94,20 @@ Blog posts, talks, and videos.
 - [Building SQLMesh Macros like dbt macros](https://www.youtube.com/watch?v=Qqbn1vUbLCU) - How to build SQLMesh macros similar to dbt macros.
 - [SQLMesh Quickstart Guide](https://www.youtube.com/watch?v=weJH3eM0rzc) - Quickstart walkthrough for SQLMesh.
 - [Running dbt Jaffle shop in SQLMesh](https://www.youtube.com/watch?v=weZxrJ2GHco) - Running the dbt Jaffle Shop example in SQLMesh.
+- [A Deep Dive into SQLMesh: Structured Query Validation and Safe Pipeline Testing](https://www.youtube.com/watch?v=lk12xpKk28Q) - Deep dive into SQLMesh validation and safe pipeline testing.
+- [Exploring SQLmesh](https://www.youtube.com/watch?v=6Ivmza-3mVM) - Exploratory overview of SQLMesh.
+- [Introduction to SQLMesh! How to Use SQLMesh, the dbt Alternative!](https://www.youtube.com/watch?v=0O7EndLUwkU) - Intro guide to using SQLMesh as a dbt alternative.
+- [dbt Core Vs. SQLMesh for SQL Transformations!](https://www.youtube.com/watch?v=bPYhkP2jeo4) - Side-by-side comparison of dbt Core and SQLMesh for SQL transformations.
+- [How to Get Started with SQLMesh, a dbt Alternative!](https://www.youtube.com/watch?v=hPI2_4sDzHY) - Getting-started walkthrough for SQLMesh.
+- [DBT Costs Too Much? Why SQL Mesh Cuts Data Stack Costs in Half](https://www.youtube.com/watch?v=GZ8VG_f6NNA) - Cost-focused look at how SQLMesh can reduce data stack spend.
+
+### Talks
+
+- [Beyond dbt: Modern SQL Transformation and Lineage with sqlglot and sqlmesh](https://www.youtube.com/watch?v=RhqvsoZvGYk) - Tomas Peluritis on modern SQL transformation and lineage with SQLGlot and SQLMesh.
+- [SQL Mesh as a DataOps Framework](https://youtu.be/wOnChL---Ik?si=Q2lFbMxJymTshYdC) - Talk on using SQLMesh as a DataOps framework.
+- [Toby Mao - SQLMesh, Simplifying Data Transformations, and more](https://www.youtube.com/watch?v=Fk3ey2SQJcQ) - Toby Mao on SQLMesh and simplifying data transformations.
+- [Let's Talk SQLMesh With Tobiko Data's Co-Founder, Toby Mao](https://www.youtube.com/watch?v=CKcmQusKppw) - Full interview with Toby Mao on Data With Josue.
+- [SQLMesh & SYNQ fireside chat](https://www.youtube.com/watch?v=EWflwkRElEI) - Fireside chat covering SQLMesh and SYNQ.
 
 ## Contributors
 
