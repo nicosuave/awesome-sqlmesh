@@ -14,19 +14,16 @@ All contributions related to SQLMesh are welcome! Please check the [contribution
 
 ## Contents
 
-- [Awesome SQLMesh   ](#awesome-sqlmesh---)
-  - [Contents](#contents)
-  - [Official Resources](#official-resources)
-  - [Sample Projects](#sample-projects)
-  - [Community Projects](#community-projects)
-  - [Tools](#tools)
-  - [Media](#media)
-    - [Newsletters](#newsletters)
-    - [Blog Posts](#blog-posts)
-    - [Videos](#videos)
-    - [Talks](#talks)
-  - [Contributors](#contributors)
-  - [Contribute](#contribute)
+- [Official Resources](#official-resources)
+- [Sample Projects](#sample-projects)
+- [Community Projects](#community-projects)
+- [Tools](#tools)
+- [Newsletters](#newsletters)
+- [Blog Posts](#blog-posts)
+- [Videos](#videos)
+- [Talks](#talks)
+- [Contributors](#contributors)
+- [Contribute](#contribute)
 
 ## Official Resources
 
@@ -70,16 +67,16 @@ Editors, proxies, and utilities around SQLMesh.
 - [tff](https://github.com/tjirab/tff) - Fitness functions engine and linter for transformation projects, with a dedicated SQLMesh plugin.
 - [sqlmesh-openlineage](https://github.com/sidequery/sqlmesh-openlineage) - OpenLineage integration for SQLMesh that emits table and column lineage events.
 
-## Media
+## Newsletters
 
-Blog posts, talks, and videos.
-
-### Newsletters
+Newsletters with recurring SQLMesh coverage.
 
 - [The Data Toolbox](https://thedatatoolbox.substack.com/) - Yuki’s Substack on modern data tools; several SQLMesh guides and comparisons.
 - [davidj.substack](https://davidsj.substack.com/) - David Jayatillake’s Substack; hands-on SQLMesh series covering dbt migration, plan/apply, testing, and ops.
 
-### Blog Posts
+## Blog Posts
+
+Articles, guides, and write-ups about SQLMesh.
 
 - [Unlocking Data Insights with Ibis and SQLMesh](https://tobikodata.com/ibis-sqlmesh-unlocking-data-insights.html) - Using Ibis with SQLMesh for analytical workflows.
 - [SQLMesh for DBT Users 1](https://tobikodata.com/sqlmesh_for_dbt_1.html) - Introduction to SQLMesh for dbt users.
@@ -96,7 +93,9 @@ Blog posts, talks, and videos.
 - [sqlmesh plan](https://davidsj.substack.com/p/sqlmesh-plan) - Walkthrough of SQLMesh plan/apply and virtual data environments.
 - [sqlmesh migrate](https://davidsj.substack.com/p/sqlmesh-migrate) - Migrating from dbt to SQLMesh in practice.
 
-### Videos
+## Videos
+
+Tutorial and explainer videos about SQLMesh.
 
 - [Tobiko Data Youtube](https://www.youtube.com/@TobikoData/) - Official Tobiko Data YouTube channel.
 - [Evolving Data Pipelines at Scale](https://www.youtube.com/watch?v=8XP25nQ2rPY) - Talk on evolving data pipelines at scale with SQLMesh.
@@ -110,7 +109,9 @@ Blog posts, talks, and videos.
 - [How to Get Started with SQLMesh, a dbt Alternative!](https://www.youtube.com/watch?v=hPI2_4sDzHY) - Getting-started walkthrough for SQLMesh.
 - [DBT Costs Too Much? Why SQL Mesh Cuts Data Stack Costs in Half](https://www.youtube.com/watch?v=GZ8VG_f6NNA) - Cost-focused look at how SQLMesh can reduce data stack spend.
 
-### Talks
+## Talks
+
+Conference talks, interviews, and fireside chats.
 
 - [Beyond dbt: Modern SQL Transformation and Lineage with sqlglot and sqlmesh](https://www.youtube.com/watch?v=RhqvsoZvGYk) - Tomas Peluritis on modern SQL transformation and lineage with SQLGlot and SQLMesh.
 - [SQL Mesh as a DataOps Framework](https://youtu.be/wOnChL---Ik?si=Q2lFbMxJymTshYdC) - Talk on using SQLMesh as a DataOps framework.
