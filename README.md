@@ -66,6 +66,7 @@ Editors, proxies, integrations, and utilities around SQLMesh.
 - [buenavista](https://github.com/nicosuave/buenavista/tree/add_sqlmesh_semantic_rewriting) - A fork of a Postgres/DuckDB proxy exposing both the PG and Trino protocols with a SQLMesh metric rewriter.
 - [tff](https://github.com/tjirab/tff) - Fitness functions engine and linter for transformation projects, with a dedicated SQLMesh plugin.
 - [sqlmesh-openlineage](https://github.com/sidequery/sqlmesh-openlineage) - OpenLineage integration for SQLMesh that emits table and column lineage events.
+- [datavault4sqlmesh](https://github.com/ScalefreeCOM/datavault4sqlmesh) - Automates data vault load patterns with SQLMesh
 - [acryl-datahub[sqlmesh]](https://docs.datahub.com/docs/generated/ingestion/sources/sqlmesh) - Datahub integration for SQLMesh that ingests project metadata
 
 ## Newsletters
