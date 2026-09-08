@@ -60,12 +60,14 @@ End-to-end projects built with SQLMesh.
 
 ## Tools
 
-Editors, proxies, and utilities around SQLMesh.
+Editors, proxies, integrations, and utilities around SQLMesh.
 
 - [vscode-sqlmeshui](https://github.com/WesleyBatista/vscode-sqlmeshui) - Embedded SQLMesh UI in VS Code.
 - [buenavista](https://github.com/nicosuave/buenavista/tree/add_sqlmesh_semantic_rewriting) - A fork of a Postgres/DuckDB proxy exposing both the PG and Trino protocols with a SQLMesh metric rewriter.
 - [tff](https://github.com/tjirab/tff) - Fitness functions engine and linter for transformation projects, with a dedicated SQLMesh plugin.
 - [sqlmesh-openlineage](https://github.com/sidequery/sqlmesh-openlineage) - OpenLineage integration for SQLMesh that emits table and column lineage events.
+- [datavault4sqlmesh](https://github.com/ScalefreeCOM/datavault4sqlmesh) - Automates data vault load patterns with SQLMesh
+- [acryl-datahub[sqlmesh]](https://docs.datahub.com/docs/generated/ingestion/sources/sqlmesh) - Datahub integration for SQLMesh that ingests project metadata
 
 ## Newsletters
 
@@ -92,6 +94,10 @@ Articles, guides, and write-ups about SQLMesh.
 - [sqlmesh init -t dbt](https://davidsj.substack.com/p/sqlmesh-init-t-dbt) - Running an existing dbt project with SQLMesh.
 - [sqlmesh plan](https://davidsj.substack.com/p/sqlmesh-plan) - Walkthrough of SQLMesh plan/apply and virtual data environments.
 - [sqlmesh migrate](https://davidsj.substack.com/p/sqlmesh-migrate) - Migrating from dbt to SQLMesh in practice.
+- [SQLMesh in Production - pt1 - Config](https://medium.com/@cortlandgoffena/sqlmesh-in-production-pt1-config-2e906863215c) - Explaining SQLMesh configuration for production use
+- [SQLMesh in Production - pt2 - Commands](https://medium.com/@cortlandgoffena/sqlmesh-in-production-pt2-commands-c6d3425ef99e) - Explaining SQLMesh commands for production use
+- [SQLMesh in Production - pt3 - CI/CD](https://medium.com/@cortlandgoffena/sqlmesh-in-production-pt3-ci-cd-5cefdd731baf) - Explaining how to setup CI/CD for SQLMesh production use
+- [SQLMesh in Production - pt4 - Checklist](https://cortlandgoffena.medium.com/sqlmesh-in-production-pt4-checklist-5954d86085c3) - List of main components needed for SQLMesh production use
 
 ## Videos
 
