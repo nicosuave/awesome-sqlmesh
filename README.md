@@ -98,6 +98,7 @@ Articles, guides, and write-ups about SQLMesh.
 - [SQLMesh in Production - pt2 - Commands](https://medium.com/@cortlandgoffena/sqlmesh-in-production-pt2-commands-c6d3425ef99e) - Explaining SQLMesh commands for production use
 - [SQLMesh in Production - pt3 - CI/CD](https://medium.com/@cortlandgoffena/sqlmesh-in-production-pt3-ci-cd-5cefdd731baf) - Explaining how to setup CI/CD for SQLMesh production use
 - [SQLMesh in Production - pt4 - Checklist](https://cortlandgoffena.medium.com/sqlmesh-in-production-pt4-checklist-5954d86085c3) - List of main components needed for SQLMesh production use
+- [SQLMesh Multi-Engine Data Stack](https://juhache.substack.com/p/sqlmesh-and-multi-engine-data-stack) - Running models on Polars and DuckDB while materializing to a shared catalog.
 
 ## Videos
 
