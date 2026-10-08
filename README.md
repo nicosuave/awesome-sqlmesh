@@ -1,4 +1,4 @@
-# Awesome SQLMesh [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![GitHub contributors](https://img.shields.io/github/contributors/StuffbyYuki/awesome-sqlmesh) ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/StuffbyYuki/awesome-sqlmesh)
+# Awesome SQLMesh [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![GitHub contributors](https://img.shields.io/github/contributors/nicosuave/awesome-sqlmesh) ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/nicosuave/awesome-sqlmesh)
 
 <p align="center">
   <a href="https://sqlmesh.readthedocs.io/">
@@ -130,8 +130,8 @@ Conference talks, interviews, and fireside chats.
 
 Thanks for all the great resources! Can't see your avatar? Check the [contribution guidelines](CONTRIBUTING.md) on how you can submit your resources to the community!
 
-<a href="https://github.com/StuffbyYuki/awesome-sqlmesh/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=StuffbyYuki/awesome-sqlmesh" alt="Contributors" />
+<a href="https://github.com/nicosuave/awesome-sqlmesh/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=nicosuave/awesome-sqlmesh" alt="Contributors" />
 </a>
 
 ## Contribute
